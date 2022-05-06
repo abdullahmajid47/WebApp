@@ -1,1 +1,1 @@
-This directory is for WebApp development purposes only.
+This branch contains code for front end development purposes only.
