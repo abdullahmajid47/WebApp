@@ -1,1 +1,1 @@
-This directory is for WebApp development purposes only.
+This directory is for backend development purposes only.
